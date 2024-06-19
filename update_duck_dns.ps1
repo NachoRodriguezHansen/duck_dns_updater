@@ -14,7 +14,7 @@
 .OUTPUTS
     None. This script does not generate any output.
 .EXAMPLE
-    .\Update-DuckDNS.ps1 -Domains "foo,bar" -Token my-duck-dns-token
+    .\update_duck_dns.ps1 -Domains "foo,bar" -Token my-duck-dns-token
 #>
 
 Param (
