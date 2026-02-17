@@ -1,0 +1,14 @@
+# Configuration file with credentials
+config.json
+
+# Logs
+output.txt
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
