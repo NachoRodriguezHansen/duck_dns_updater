@@ -131,7 +131,7 @@ try {
                           -Description "Update Duck DNS domains every $intervalDesc" `
                           -Force | Out-Null
     
-    Write-Host "✓ Task created successfully!" -ForegroundColor Green
+    Write-Host "Task created successfully!" -ForegroundColor Green
     Write-Host "`nDetails:" -ForegroundColor Cyan
     Write-Host "  Name: $taskName"
     Write-Host "  Interval: $intervalDesc"
