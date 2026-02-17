@@ -1,0 +1,5 @@
+{
+  "domains": "subdomain1,subdomain2",
+  "token": "your-duckdns-api-token",
+  "ip": ""
+}
